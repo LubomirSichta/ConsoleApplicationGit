@@ -10,7 +10,7 @@ namespace ConsoleApplicationGit
     {
         static void Main(string[] args)
         {
-            int t = 1;
+            int t = 1;//
         }
     }
 }
